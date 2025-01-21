@@ -8,12 +8,12 @@ https://github.com/user-attachments/assets/9a7123b6-2728-4566-aaa0-b435b4d4ae22
 
 
 ## Supplies
-1x buck boost 9-35 to 1-35V 80W
-1x Volt/Amp meter display
-2x banana jack binding post
-1x 1K potentiometer (3590S)
-1x 100k potentiometer (3590S)
-1x  DC Power Jack Socket (5.5 x 2.5mm)
+- 1x buck boost 9-35 to 1-35V 80W
+- 1x Volt/Amp meter display
+- 2x banana jack binding post
+- 1x 1K potentiometer (3590S)
+- 1x 100k potentiometer (3590S)
+- 1x  DC Power Jack Socket (5.5 x 2.5mm)
 
 ## requiremnts
 
